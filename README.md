@@ -1,4 +1,4 @@
-# inception-app-demo
+# cordova-app-demo
 
 This is a cordova app project.
 
