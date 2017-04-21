@@ -35,6 +35,7 @@ cordova platform add browser
 ## Testing
 
 After you run this command, it will watch files in the `www` folder and automatically reload HTML and CSS
+(plugin -- [cordova-plugin-browsersync](https://github.com/nparashuram/cordova-plugin-browsersync) )
 
 ```
 cordova run browser -- --live-reload
